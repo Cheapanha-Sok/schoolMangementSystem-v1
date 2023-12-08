@@ -1,0 +1,3 @@
+S001, Panha, Male, 11/2/2004, 06199999, Rupp, 8, Master, A1
+S002, Panho, Female, 11/2/2006, 06199999, Setec, 9, Master, null
+S003, Ahloy, Female, 11/2/2001, 06199999, Techno, 3, Master, null

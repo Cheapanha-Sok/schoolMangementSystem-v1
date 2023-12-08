@@ -1,0 +1,3 @@
+F1, Faculty of Engineering, Shaw, S102
+F2, Faculty of English, Lokei, V101
+F3, Faculty of Science, DoDo, A214
